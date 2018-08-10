@@ -1,0 +1,9 @@
+{
+  "name": "removeddit-live",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
